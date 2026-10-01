@@ -1,3 +1,3 @@
 export default function Disclaimer() {
-  return <aside className="disclaimer" id="about"><span className="info">i</span><p><strong>For educational use only.</strong> This system provides an AI/ML-based preliminary prediction for educational and informational purposes only. It is not a medical diagnosis and should not replace advice from a qualified healthcare professional.</p></aside>;
+  return <aside className="disclaimer" id="about"><span className="info">i</span><p><strong>Helpful context, not a diagnosis.</strong> Symptom results and chat guidance are general information only. They can’t replace an assessment from a qualified healthcare professional.</p></aside>;
 }
